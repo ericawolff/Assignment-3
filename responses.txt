@@ -1,5 +1,5 @@
-**What is an advantage to using a text editor?**
+What is an advantage to using a text editor?
 It is faster to edit using a text editor.
 
-**Is there an advantage of using a relative vs an absolute URL?**
+Is there an advantage of using a relative vs an absolute URL?
 If you do a lot of testing, relative URLs would be more convenient to use, as they are more portable.
