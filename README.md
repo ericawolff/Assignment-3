@@ -6,5 +6,6 @@
 
 Gibberish sik askadk lor sskakem aldkiedkd, kkdfjie akd aiekd dkdie ak jadj eielkj, skdlfksdfj, 
 >Akdiekaka, asldfkjdjekd kdfj kdkajieok.
+>![assignment-3-vs-editor.png]
 
 [Interesting website!](http://info.cern.ch/)
